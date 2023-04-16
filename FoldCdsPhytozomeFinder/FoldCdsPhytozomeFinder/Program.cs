@@ -5,7 +5,7 @@ using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ObtencaoFoldCdsPhytozome
+namespace FoldCdsPhytozomeFinder
 {
     public class Program
     {
@@ -17,7 +17,7 @@ namespace ObtencaoFoldCdsPhytozome
                 ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
                 using (var excel = new ExcelPackage())
                 {
-                    //Aqui foi utilizado um excel em que a primeira coluna eram os 'ID Database' a segunda coluna era 'Database (Phytozome) e a terceira coluna 'ID Gene''
+                    //Here was utilized an excel with the first column as 'ID Database', the second as 'Database (Phytozome)' and the third as ' ID Gene'
                     using (var stream = File.OpenRead(args[0]))
                         excel.Load(stream);
 

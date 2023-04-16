@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ProgramaExtracaoSite")]
+[assembly: AssemblyTitle("FoldCdsPhytozomeFinder")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ProgramaExtracaoSite")]
+[assembly: AssemblyProduct("FoldCdsPhytozomeFinder")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("10d59c90-2994-43e3-abbf-4c7b40096ded")]
+[assembly: Guid("86d336d2-16a2-421d-ac17-2d71d854a253")]
 
 // Version information for an assembly consists of the following four values:
 //

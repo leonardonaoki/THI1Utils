@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{10D59C90-2994-43E3-ABBF-4C7B40096DED}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ExtracaoMemeParaXML</RootNamespace>
-    <AssemblyName>ExtracaoMemeParaXML</AssemblyName>
+    <RootNamespace>ExtractionSite</RootNamespace>
+    <AssemblyName>ExtractionSite</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
